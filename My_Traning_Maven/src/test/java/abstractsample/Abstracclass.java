@@ -6,6 +6,7 @@ public abstract class Abstracclass
 	public void display()
 	{
 		System.out.println("non abstract mthd");
+		
 	}
 
 }
